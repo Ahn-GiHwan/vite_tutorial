@@ -4,7 +4,7 @@
 
 ## 프로젝트 생성
 
-npm create vite [project_name] -- template [project_template]
+npm create vite [project_name] -- template [project_template] <br>
 ex) npm create vite react -- --template react
 
 <br/>
